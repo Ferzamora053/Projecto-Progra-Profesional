@@ -23,9 +23,8 @@ Por otro lado, el cliente es el programa que se utiliza para interactuar con la 
 
 Para crear una base de datos, se utiliza lo siguiente:
 
-    ```sql
+
     CREATE DATABASE <nombre>;
-    ```
 
 ---
 
@@ -41,14 +40,14 @@ Al acceder a la base de dato, estos datos están ubicados dentro de un listado d
 
 Para crear una nueva tabla, se utiliza el comando SQL de la siguiente forma (en su forma más simple):
 
-    ```sql
+
     CREATE TABLE usuarios (
         id INT,  
         nombre VARCHAR(50),   
         edad INT,    
         email VARCHAR(100)  
     );
-    ```
+
 
 Al igual que en muchos otros sistemas de gestión de bases de datos relacionales, hay varios tipos de datos que se pueden usar para definir columnas en una tabla. Aquí tienes una lista de los tipos de datos más comunes en MySQL:
 
