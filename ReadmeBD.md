@@ -6,7 +6,8 @@
 
 - Establecer la conexión a una base de datos relacional.
 - Analizar la estructura de distintas tablas en una base de datos.
-- Escribir consultas básicas que permitan obtener los campos de una tabla, ordenar y limitar los resultados.  
+- Escribir consultas básicas que permitan obtener los campos de una tabla, ordenar y limitar los resultados.
+- Combinar datos entre una o mas tablas
 
 ### 2. Contenido
 
