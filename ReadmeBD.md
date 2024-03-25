@@ -8,7 +8,7 @@
 - Analizar la estructura de distintas tablas en una base de datos.
 - Escribir consultas básicas que permitan obtener los campos de una tabla, ordenar y limitar los resultados.  
 
-### 2. Contenido :blue_book:
+### 2. Contenido
 
 ---
 
